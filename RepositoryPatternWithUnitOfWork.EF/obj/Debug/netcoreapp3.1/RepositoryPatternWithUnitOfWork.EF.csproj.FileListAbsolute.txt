@@ -1,0 +1,16 @@
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.deps.json
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.dll
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.pdb
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.dll
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.pdb
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.csproj.AssemblyReference.cache
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.AssemblyInfoInputs.cache
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.AssemblyInfo.cs
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.csproj.CopyComplete
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.dll
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.pdb
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.runtimeconfig.json
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.runtimeconfig.dev.json
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.EF\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.EF.genruntimeconfig.cache

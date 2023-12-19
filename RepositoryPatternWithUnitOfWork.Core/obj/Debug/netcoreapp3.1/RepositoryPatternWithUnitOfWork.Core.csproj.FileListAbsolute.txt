@@ -1,0 +1,10 @@
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.deps.json
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.dll
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.pdb
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.csproj.AssemblyReference.cache
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.AssemblyInfoInputs.cache
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.AssemblyInfo.cs
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.dll
+C:\Users\30698\source\repos\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\netcoreapp3.1\RepositoryPatternWithUnitOfWork.Core.pdb

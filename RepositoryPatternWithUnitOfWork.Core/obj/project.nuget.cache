@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkKGOc9o6UtD0D/a77S8NaYqFzobl/y0Cj76SltGMZlELmuTjweS8AFTdn+kS6wqbVleD2IfQcVg+xsmO2ObFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\30698\\source\\repos\\RepositoryPatternWithUnitOfWork\\RepositoryPatternWithUnitOfWork.Core\\RepositoryPatternWithUnitOfWork.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\30698\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.32\\microsoft.aspnetcore.http.features.3.1.32.nupkg.sha512",
+    "C:\\Users\\30698\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "C:\\Users\\30698\\.nuget\\packages\\system.io.pipelines\\4.7.5\\system.io.pipelines.4.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
